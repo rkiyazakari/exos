@@ -1,4 +1,4 @@
-console.log("marie-pierre");
+console.log("log-me");
 
 // variables
 const TIMEOUT = 10;
