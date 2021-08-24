@@ -1,11 +1,3 @@
-# L2-C
-
-Ce répertoire contiendra à priori tous les exercices de C qu'auront eu les L2 int 1 de la promo 2024.
-
-Prenez ce que vous voulez, si vous avez des questions posez les, MAIS évitez de prendre les exercices tels qu'ils sont.
-Veuillez les modifier dans la forme (et/ou le fond), surtout si c'est pour un contrôle.
-
-Zhou.
 
 ## Sommaire
 
@@ -79,15 +71,3 @@ Retrouvez [ici](https://github.com/gundamzhou/L2-C/blob/master/index.md) l'index
 
 ## Licence description
 Int EFREI de White Pepper S.A.S. est mis à disposition selon les termes de la licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International. Les autorisations au-delà du champ de cette licence peuvent être obtenues à mailto://franck.lepoivre@platypus.academy
-
-## Contributeurs :
-
-ZHOU Killian
-LEBIHAN Guerric
-LESIEUX Benjamin
-SAUVEE Kylian
-
-18/09/2020
-
-Nota Bene:
-Je ne pretends pas avoir les meilleures solutions.
